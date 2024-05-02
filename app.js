@@ -3,7 +3,6 @@ const hour = document.querySelector("#hour");
 const minut = document.querySelector("#minute");
 const second = document.querySelector("#second");
 
-
 //this is the main function
 setInterval(() => {
     let time = new Date();
